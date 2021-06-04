@@ -8,7 +8,8 @@ An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral
   - what are some main causes of coral bleaching
   - how long has coral bleaching been going on
   - focus on specific timeline of known coral bleaching events (2015-2017 seemed to be the two years with the heaviest bleaching events)
-  - *bleaching events CSV*
+  - *bleaching events CSV* ??
+  - *severe bleaching events*??
 
 2. Global Warming/Changing Water Temperatures
   - Enzo storm data research, both tables - brief overview of Enzo storm history
@@ -16,6 +17,7 @@ An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral
   - acidity levels across oceans
   - sea rise and any other general global warming sea level temp trends
   - compare other oceans over time and see if the Pacific ocean has changed in temperature at a different rate to other bodies of water. 
+  - *zoning coordinates CSV*?? see if this is useful at all somehow with json
  
 3. Wildlife/Ecosystems/Extenction Threat
 - Who has been most affected by coral bleaching, pull in tables to analyze, compare and contrast
