@@ -17,7 +17,7 @@ An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral
   - acidity levels across oceans
   - sea rise and any other general global warming sea level temp trends
   - compare other oceans over time and see if the Pacific ocean has changed in temperature at a different rate to other bodies of water. 
-  - *zoning coordinates CSV*?? see if this is useful at all somehow with json
+  - *zoning coordinates CSV*?? see if this is useful at all somehow with geojson
  
 3. Wildlife/Ecosystems/Extenction Threat
 - Who has been most affected by coral bleaching, pull in tables to analyze, compare and contrast
@@ -35,7 +35,7 @@ An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral
 5. Pollution
 - *global plastics pollution CSV*
 - *national carbon emissions CSV*
-- *global carbon budget CSV* (data sets for 2020 and 2017, 2020 has the json)
+- *global carbon budget CSV*
 - find more data on plastic manufacturing? or specific pollution per country?
 - which oceans are most polluted
 
