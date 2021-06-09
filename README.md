@@ -9,10 +9,10 @@ An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral
   - how long has coral bleaching been going on
   - focus on specific timeline of known coral bleaching events (2015-2017 seemed to be the two years with the heaviest bleaching events)
   - *bleaching events CSV* ??
-  - *severe bleaching events*??
 
 2. Global Warming/Changing Water Temperatures
   - Enzo storm data research, both tables - brief overview of Enzo storm history
+  - - *severe bleaching events*??
   - It is known that the main reason for coral bleaching is due to rising water temperatures
   - acidity levels across oceans
   - sea rise and any other general global warming sea level temp trends
