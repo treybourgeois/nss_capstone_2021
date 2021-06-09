@@ -21,7 +21,6 @@ An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral
  
 3. Wildlife/Ecosystems/Extenction Threat
 - Who has been most affected by coral bleaching, pull in tables to analyze, compare and contrast
-- *list of species CSV*
 - *list of threatened CSV*
 - *list of described species CSV*
 - *list of fish threatened CSV*
