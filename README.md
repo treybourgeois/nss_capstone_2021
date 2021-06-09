@@ -33,7 +33,7 @@ An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral
 
 
 5. Pollution
-- *global plastics pullution CSV*
+- *global plastics pollution CSV*
 - *national carbon emissions CSV*
 - *global carbon budget CSV* (data sets for 2020 and 2017, 2020 has the json)
 - find more data on plastic manufacturing? or specific pollution per country?
