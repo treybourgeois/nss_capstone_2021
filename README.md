@@ -24,6 +24,7 @@ An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral
 - *list of species CSV*
 - *list of threatened CSV*
 - *list of described species CSV*
+- *list of fish threatened CSV*
 - *list of perc coral coverage in specific area, as well as perc fish in specific area*
 - ^^*USE WORD DOC eATLAS DATA SET REPORT TO EXPLAIN FINDINGS*^^
 
