@@ -34,6 +34,7 @@ I wanted to combine my interests for geography, maps, and nature into a project 
 - Pollution
 
 ## Weather Events
+<img src="ENSO_bleaching_events.png"/>
 
 ## Changing Water Temperature
 
