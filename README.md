@@ -34,7 +34,7 @@ I wanted to combine my interests for geography, maps, and nature into a project 
 - Pollution
 
 ## Weather Events
-<img src="ENSO_bleaching_events"/>
+![ENSO-bleaching-events](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/ENSO_bleaching_events.png?raw=true)
 
 ## Changing Water Temperature
 
