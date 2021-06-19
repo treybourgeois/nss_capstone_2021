@@ -34,6 +34,9 @@ I wanted to combine my interests for geography, maps, and nature into a project 
 - Pollution
 
 ## Weather Events
+The El Niño–Southern Oscillation (ENSO) is a natural climate phenomenon that affects surface water temperatures in the eastern Pacific Ocean. It transitions between the El Niño part of the cycle, which is the warm phase, and the La Niña which is the cool phase.
+
+Bleaching is usually worse in El Niño years when surface waters become warmer. In the chart we see the number of bleaching events, colored by the phase of the ENSO cycle at the time. El Niño years are shown in blue; La Niña in orange; and moderate years between these transitions in green.
 ![ENSO-bleaching-events](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/ENSO_bleaching_events.png?raw=true)
 
 ## Changing Water Temperature
@@ -41,7 +44,8 @@ I wanted to combine my interests for geography, maps, and nature into a project 
 ## Ocean Acidification
 
 ## Pollution
-<img src="global_plastic_prod.jpeg"/>
+A look at global plastic production since 1950, per million tons, which breaks down in the ocean as microplastics endangering animals and ecosystems.
+![global-plastic-prod](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/global_plastic_prod.png)
 ## Tools
 * Python
 * Tableau
