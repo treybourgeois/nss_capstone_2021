@@ -1,13 +1,13 @@
-nss_capstone_2021
-An Analysis of the Great Barrier Reef: Environmental Impacts and Causes of Coral Bleaching
+Coral Bleaching: A Brief History and Overview of Catalysts and Effects
 
-Brief history and overview of coral bleaching
-intro to coral bleaching
-focus on the catalysts that have affected the calcification of dying coral, the ecosystems that are changing over time, global warming, and any wildlife that have been forced into a new way of life because of this, including new migratory patterns or even species that have been threatened by extinction, tourism, pollution, is this happening due to over-fishing
-what are some main causes of coral bleaching
-how long has coral bleaching been going on
-focus on specific timeline of known coral bleaching events (2015-2017 seemed to be the two years with the heaviest bleaching events)
-bleaching events CSV ??
+This project's aim is to analyze some of the causes of coral bleaching in Australia's Great Barrier Reef, highlighting the abundance of coral species in relevance to other species, as well as exploring the catalysts in our changing environment which aid the process of coral bleaching. 
+
+- Why explore this data? 
+
+I wanted to combine my interests for geography, maps, and nature into a project that could yeild interesting insights to a problem that I was aware of, but wanted to educate myself further on. Australia's Great Barrier Reef is a thriving ecosystem and one of the 7 Underwater Wonders of the World.
+
+
+- 
 Global Warming/Changing Water Temperatures
 Enzo storm data research, both tables - brief overview of Enzo storm history
 severe bleaching events??
