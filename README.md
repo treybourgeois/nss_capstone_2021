@@ -41,7 +41,7 @@ I wanted to combine my interests for geography, maps, and nature into a project 
 ## Ocean Acidification
 
 ## Pollution
-
+<img src="global_plastic_prod.jpeg"/>
 ## Tools
 * Python
 * Tableau
