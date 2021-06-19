@@ -27,14 +27,14 @@ I wanted to combine my interests for geography, maps, and nature into a project 
 - Are the causes and effects of coral bleaching exacerbated more by nature or humans?
 
 ## Impacts and Effects
-- ### Global Warming
+### Global Warming
 - Weather Events
 - Changing Water Temperatures
 - Ocean Acidification
 - Pollution
 
 ## Weather Events
-<img src="ENSO_bleaching_events.png"/>
+<img src="ENSO_bleaching_events"/>
 
 ## Changing Water Temperature
 
