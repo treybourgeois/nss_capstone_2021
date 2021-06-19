@@ -3,6 +3,11 @@ Coral Bleaching: A Brief History and Overview of Catalysts and Effects
 This project's aim is to analyze some of the causes of coral bleaching in Australia's Great Barrier Reef, highlighting the abundance of coral species in relevance to other species, as well as exploring the catalysts in our changing environment which aid the process of coral bleaching. 
 
 # Why explore this data? 
+## test
+### test
+#### test
+##### test
+###### test
 
 ###I wanted to combine my interests for geography, maps, and nature into a project that could yeild interesting insights to a problem that I was aware of, but wanted to educate myself further on. Australia's Great Barrier Reef is a thriving ecosystem and one of the 7 Underwater Wonders of the World.
 
