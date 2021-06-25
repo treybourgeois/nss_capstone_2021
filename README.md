@@ -43,7 +43,8 @@ Also as of 6/22/21, new findings by UNESCO suggests placing the Great Barrier Re
 - Pollution
 
 ## Bleaching Events
-A look at total bleaching events from 1980-2015. Greater than 30% total corals bleached is considered severe.
+A look at total bleaching events from 1980-2015. Greater than 30% of total corals bleached is considered severe.
+Following previous mass bleaching events recorded on the Great Barrier Reef prior to 2016 and 2017, the vast majority of corals survived. In 1998, 50% of the reefs on the Great Barrier Reef suffered bleaching. Since 2017, there have been promising signs of recovery on reefs locally, however it is widely accepted that the Reef still needs more time to recover from the unprecedented back to back mass bleaching events in 2016 and 2017. I tried to focus my other data regarding pollution around the years 2015-2017 to further understand some of the catalysts for the back to back bleaching events that happened during that time.
 ![world-bleaching-events](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/world_bleaching_events.png?raw=true)
 
 
@@ -59,6 +60,7 @@ A main cause of coral bleaching in the Great Barrier Reef is changing water temp
 ![sea-surface-temp](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/sea_surface_temp.png?raw=true)
 
 ## Ocean Acidification
+Here you can see as pH levels go down over time, Co2 levels are increasing.
 ![ocean-acidity](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/ocean_acidity.png?raw=true)
 
 
@@ -86,4 +88,5 @@ Rising sea levels and ocean acidification are the result of rising carbon emissi
 - List of countries by carbon dioxide emissions – Wikipedia
 - What is coral bleaching? (noaa.gov)
 - Carbon Budget (globalcarbonproject.org)
+- https://www.barrierreef.org/the-reef/coral-bleaching
 
