@@ -77,13 +77,13 @@ Rising sea levels and ocean acidification are the result of rising carbon emissi
 * Tableau
 
 ## Data Sources
-Coral Reefs - Our World in Data
-Fish - Our World in Data
-Extinctions - Our World in Data
-Climate Change Indicators: Sea Surface Temperature | Climate Change Indicators in the United States | US EPA
-Climate Change Indicators: Ocean Heat | Climate Change Indicators in the United States | US EPA
-Climate Change Indicators: Ocean Acidity | Climate Change Indicators in the United States | US EPA
-List of countries by carbon dioxide emissions – Wikipedia
-What is coral bleaching? (noaa.gov)
-Carbon Budget (globalcarbonproject.org)
+- Coral Reefs - Our World in Data
+- Fish - Our World in Data
+- Extinctions - Our World in Data
+- Climate Change Indicators: Sea Surface Temperature | Climate Change Indicators in the United States | US EPA
+- Climate Change Indicators: Ocean Heat | Climate Change Indicators in the United States | US EPA
+- Climate Change Indicators: Ocean Acidity | Climate Change Indicators in the United States | US EPA
+- List of countries by carbon dioxide emissions – Wikipedia
+- What is coral bleaching? (noaa.gov)
+- Carbon Budget (globalcarbonproject.org)
 
