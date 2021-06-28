@@ -45,34 +45,34 @@ Also as of 6/22/21, new findings by UNESCO suggests placing the Great Barrier Re
 ## Bleaching Events
 A look at total bleaching events from 1980-2015. Greater than 30% of total corals bleached is considered severe.
 Following previous mass bleaching events recorded on the Great Barrier Reef prior to 2016 and 2017, the vast majority of corals survived. In 1998, 50% of the reefs on the Great Barrier Reef suffered bleaching. Since 2017, there have been promising signs of recovery on reefs locally, however it is widely accepted that the Reef still needs more time to recover from the unprecedented back to back mass bleaching events in 2016 and 2017. I tried to focus my other data regarding pollution around the years 2015-2017 to further understand some of the catalysts for the back to back bleaching events that happened during that time.
-![world-bleaching-events](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/world_bleaching_events.png?raw=true)
+![world-bleaching-events](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/world_bleaching_events.png?raw=true)
 
 
 ## Weather Events
 The El Niño–Southern Oscillation (ENSO) is a natural climate phenomenon that affects surface water temperatures in the eastern Pacific Ocean. It transitions between the El Niño part of the cycle, which is the warm phase, and the La Niña which is the cool phase.
 
 Bleaching is usually worse in El Niño years when surface waters become warmer. In the chart we see the number of bleaching events, colored by the phase of the ENSO cycle at the time. El Niño years are shown in blue; La Niña in orange; and moderate years between these transitions in green.
-![ENSO-bleaching-events](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/ENSO_bleaching_events.png?raw=true)
+![ENSO-bleaching-events](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/ENSO_bleaching_events.png?raw=true)
 
 ## Changing Water Temperature
 A main cause of coral bleaching in the Great Barrier Reef is changing water temperatures in the Pacific Ocean, three main factors we will explore here are Ocean Acidification, Ocean Heat, and Sea Surface Temperature.
-![ocean-heat-temp](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/ocean_heat_temp.png?raw=true)
-![sea-surface-temp](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/sea_surface_temp.png?raw=true)
+![ocean-heat-temp](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/ocean_heat_temp.png?raw=true)
+![sea-surface-temp](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/sea_surface_temp.png?raw=true)
 
 ## Ocean Acidification
 Here you can see as pH levels go down over time, Co2 levels are increasing.
-![ocean-acidity](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/ocean_acidity.png?raw=true)
+![ocean-acidity](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/ocean_acidity.png?raw=true)
 
 
 ## Pollution
 A look at global plastic production since 1950, per million tons, which breaks down in the ocean as microplastics endangering animals and ecosystems.
-![global-plastic-prod](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/global_plastic_prod.png)
+![global-plastic-prod](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/global_plastic_prod.png?raw=true)
 
 ### C02 Emissions and Global Carbon Budget
 Rising sea levels and ocean acidification are the result of rising carbon emissions, which are represented here. We also take a look at the global carbon budget, which is the amount of C02 a country is allowed to emit annually. 
-![carbon-emissions-2017](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/carbon_emissions_2017.png?raw=true)
-![carbon-budget-2017](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/carbon_budget_2017.png?raw=true)
-![budget-per-pollutant](https://github.com/treybourgeois/nss_capstone_2021/blob/main/data2/budget_per_pollutant.png?raw=true)
+![carbon-emissions-2017](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/carbon_emissions_2017.png?raw=true)
+![carbon-budget-2017](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/carbon_budget_2017.png?raw=true)
+![budget-per-pollutant](https://github.com/treybourgeois/nss_capstone_2021/blob/main/images/budget_per_pollutant.png?raw=true)
 
 ## Tools
 * Python
